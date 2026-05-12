@@ -24,3 +24,5 @@ Yazılım geliştirme, veritabanı yönetimi ve arka uç sistemlerinde kendimi g
 ## GitHub Projeleri
 
 Aşağıdaki depolarımı inceleyebilirsiniz 👇
+
+LinkedIn: https://www.linkedin.com/in/ahmet-berkay-yilmaz
