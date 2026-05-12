@@ -1,16 +1,26 @@
-## Hi there 👋
+# Merhaba, ben Ahmet Berkay Yılmaz 👋
 
-<!--
-**berkayyilmazdev/berkayyilmazdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bilgisayar Mühendisliği mezunuyum ve arka uç geliştirme, veritabanı sistemleri ve yazılım teknolojileriyle ilgileniyorum.
 
-Here are some ideas to get you started:
+## Kullandığım Teknolojiler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- Windows Forms
+- Python
+- Microsoft SQL Server
+
+## Projeler
+
+- Finans Yönetim Sistemi
+- Araç Yakıt Tüketimi Tahmini
+- Konteyner Takip Sistemi (devam ediyor)
+
+## Hakkımda
+
+Yazılım geliştirme, veritabanı yönetimi ve arka uç sistemlerinde kendimi geliştirmekten keyif alıyorum.
+
+Şu anda C# teknolojilerine ve modern yazılım geliştirme uygulamalarına odaklanıyorum.
+
+## GitHub Projeleri
+
+Aşağıdaki depolarımı inceleyebilirsiniz 👇
