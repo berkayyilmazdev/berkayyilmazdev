@@ -17,7 +17,7 @@ Bilgisayar Mühendisliği mezunuyum ve backend sistemleri, veritabanı sistemler
 
 ## Hakkımda
 
-Yazılım geliştirme, veritabanı yönetimi ve arka uç sistemlerinde kendimi geliştirmekten keyif alıyorum.
+Yazılım geliştirme, veritabanı yönetimi ve backend teknolojileri alanında kendimi geliştirmekten keyif alıyorum.
 
 Şu anda C# teknolojilerine ve modern yazılım geliştirme uygulamalarına odaklanıyorum.
 
