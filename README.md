@@ -1,6 +1,6 @@
 # Merhaba, ben Ahmet Berkay Yılmaz 👋
 
-Bilgisayar Mühendisliği mezunuyum ve arka uç geliştirme, veritabanı sistemleri ve yazılım teknolojileriyle ilgileniyorum.
+Bilgisayar Mühendisliği mezunuyum ve backend sistemleri, veritabanı sistemleri ve yazılım teknolojileriyle ilgileniyorum.
 
 ## Kullandığım Teknolojiler
 
